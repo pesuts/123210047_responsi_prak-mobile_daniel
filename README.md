@@ -1,6 +1,6 @@
 # responsi_123210047
 
-NAMA : DANIEL HASIANDO SINAGA
+NAMA : DANIEL HASIANDO SINAGA  
 NIM : 123210047
 
 Praktikum Teknologi dan Pemrograman Mobile IF-E
